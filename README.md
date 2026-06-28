@@ -145,17 +145,6 @@ bhagavad-gita-skill/
 ├── README.md       # This file
 └── example.PNG     # Screenshot of the skill in action
 ```
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! You can:
-- Add more shlokas to the "Key Shlokas" section
-- Improve Hindi/English translations
-- Add new life-guidance mappings
-- Improve visual templates
-
 ---
 
 ## 📜 License
