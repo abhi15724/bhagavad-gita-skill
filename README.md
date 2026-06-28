@@ -22,8 +22,7 @@ This skill turns Claude into a wise, compassionate Gita guru with three modes:
 
 > **Example: Reading Bhagavad Gita Chapter 1, Verse 1 inside Claude**
 
-![Bhagavad Gita Skill in Action](./bhagavad gita.PNG)
-
+![Bhagavad Gita Skill in Action](./bhagavad%20gita.PNG)
 *The skill renders a beautiful, app-like widget directly inside Claude's chat — with Sanskrit (Devanagari), Roman transliteration, word-by-word breakdown, Hindi translation, English translation, deep explanation, and modern life application.*
 
 ---
